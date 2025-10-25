@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Emergency Health Care Service",
+  "description": "An intelligent health management and appointment scheduling application that uses AI to analyze symptoms and suggest potential next steps for patients.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
